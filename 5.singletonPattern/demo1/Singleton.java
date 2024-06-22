@@ -2,6 +2,7 @@ package org.example;
 
 /**
  * 单例模式
+ * 饿汉式
  */
 public class Singleton {
 

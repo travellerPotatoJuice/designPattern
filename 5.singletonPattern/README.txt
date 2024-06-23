@@ -7,3 +7,7 @@
 5. Lazy Initialization（Based on double-checked locking)
 6. Lazy Initialization  (Based on static inner class)
 7. Based on Enum class
+
+=================================
+1. Destroy single pattern by serialization and deserialization
+2. Destroy single pattern by reflection
